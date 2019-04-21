@@ -18,6 +18,12 @@ week-3:
     name: Dienstag
 week-4:
   day-1:
+    datum: 2019-05-28
+    start: "16:00"
+    end: "18:00"
+    name: Dienstag
+week-5:
+  day-1:
     datum: 2019-06-04
     start: "16:00"
     end: "18:00"
