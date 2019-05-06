@@ -12,19 +12,6 @@ raum: 3.216
 info: 
 ---
 
-## Worum geht es?
+## Anmeldung
 
-- Einstieg in Git bieten
-
-## Was sind die Ziele?
-
-- Jeder Teilnehmer weiß, wozu Git zu verwenden ist
-- Basics wie Repositories anlegen, commiten, pushen und pullen sind verstanden
-
-## Was muss vorbereitet werden?
-
-- Git auf mitgebrachtem Rechner installieren
-
-## Material und Links
-
-Material folgt
+Um an diesem Termin teilzunehmen, bitte hier [anmelden](https://terminplaner4.dfn.de/th-koeln-git-kurs)

@@ -5,7 +5,7 @@ titel: Über die Veranstaltung
 
 In diesem Kurs geht es um das interaktive und betreute Erlernen des weitverbreiteten Versionierungswerkzeugs *Git* in der Konsole.
 Dieser Kurs wendet sich an alle Informatikstudenten des Campus Gummersbach.
-Die Termine sind dem [Zeitplan](timetable) zu entnehmen.
+Die Termine sind dem [Zeitplan](timetable) zu entnehmen, für die einzelnen Termine bitte hier [anmelden](https://terminplaner4.dfn.de/th-koeln-git-kurs).
 
 ## Warum Versionsverwaltung?
 
@@ -26,6 +26,10 @@ Damit arbeiten zu können, wird in vielen Modulen der TH Köln und von vielen Ar
   - Auf Linux- und macOS-Systemen ist Git meist schon vorinstalliert.
   - Windows-Nutzer müssen es herunterladen und installieren.
   - [Git Download](https://git-scm.com/downloads)
+
+## Material und Links
+
+Material folgt
 
 ## Wer macht es?
 
