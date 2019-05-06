@@ -4,7 +4,7 @@ kuerzel: workshop
 verantwortlich: alle
 typ: workshop
 pflicht: false
-termine: 2019-06-04 16:00
+termine: 2019-06-11 16:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
