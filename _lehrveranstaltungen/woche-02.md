@@ -1,7 +1,7 @@
 ---
 titel: Workshop
 kuerzel: workshop
-verantwortlich: cn, vs
+verantwortlich: alle
 typ: workshop
 pflicht: false
 termine: 2019-05-14 16:00
