@@ -20,12 +20,13 @@ Damit arbeiten zu können, wird in vielen Modulen der TH Köln und von vielen Ar
 
 ## Vorbereitung
 
-- GitHub-Account anlegen
-  - Accounts mit @smail.th-koeln.de-Adressen haben Anrecht auf [GitHub Pro](https://education.github.com/pack)
-- Git installieren
-  - Auf Linux- und macOS-Systemen ist Git meist schon vorinstalliert.
-  - Windows-Nutzer müssen es herunterladen und installieren.
-  - [Git Download](https://git-scm.com/downloads)
+GitHub-Account anlegen
+- Accounts mit @smail.th-koeln.de-Adressen haben Anrecht auf [GitHub Pro](https://education.github.com/pack)
+
+Git installieren
+- Auf Linux- und macOS-Systemen ist Git meist schon vorinstalliert.
+- Windows-Nutzer müssen es herunterladen und installieren.
+- [Git Download](https://git-scm.com/downloads)
 
 ## Material und Links
 
