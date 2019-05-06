@@ -1,16 +1,18 @@
+dk:
+  name: David Kathmann
+  email: david.kathmann@smail.th-koeln.de
+kd:
+  name: Kerstin Dückmann
+  email: kerstin.dueckmann@smail.th-koeln.de
 vs:
-  name: Volker Schaefer
-  email: volker.schaefer@th-koeln.de
-cn:
-  name: Christian Noss
-  email: christian.noss@th-koeln.de
-ch:
-  name: Christian Hahn
-  email: christian.hahn1@th-koeln.de
+  name: Valerij Stelmach
+  email: valerij.stelmach@smail.th-koeln.de
+fm:
+  name: Florian Marks
+  email: florian.marks@smail.th-koeln.de
+as:
+  name: Aaron Seggelke
+  email: aaron.seggelke@smail.th-koeln.de
 alle:
   name: alle
   email:
-js:
-  name: Julian Schoemaker
-  email: julian.schoemaker@smail.th-koeln.de
-

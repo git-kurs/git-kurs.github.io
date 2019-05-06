@@ -4,7 +4,7 @@ kuerzel: workshop
 verantwortlich: cn, vs
 typ: workshop
 pflicht: false
-termine: 2019-05-07 16:00
+termine: 2019-05-21 16:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
