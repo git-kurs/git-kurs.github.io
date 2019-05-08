@@ -5,7 +5,7 @@ titel: Über die Veranstaltung
 
 In diesem Kurs geht es um das interaktive und betreute Erlernen des weitverbreiteten Versionierungswerkzeugs *Git* in der Konsole.
 Dieser Kurs wendet sich an alle Informatikstudenten des Campus Gummersbach.
-Die Termine sind dem [Zeitplan](timetable) zu entnehmen, für die einzelnen Termine bitte hier [anmelden](https://terminplaner4.dfn.de/th-koeln-git-kurs).
+Die Termine können dem [Zeitplan](timetable) entnommen werden und [hier](https://terminplaner4.dfn.de/th-koeln-git-kurs) kann man sich für diese anmelden.
 
 ## Warum Versionsverwaltung?
 
@@ -29,13 +29,13 @@ Windows-Nutzer müssen es herunterladen und installieren.
 
 ## Material und Links
 
-Material folgt
-<br>
-<br>
-<br>
-<br>
+⦁ [Foliensatz](404)<br>
+⦁ [Aufgaben](404)<br>
+⦁ [Git – Getting started](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control)<br>
+⦁ [Git Dokumentation](https://git-scm.com/docs)<br>
+⦁ [GitHub](https://github.com/)
 
-## Wer macht es?
+## Verantwortliche
 
 Angeboten wird dieser Kurs von David Kathmann, Kerstin Dückmann, Valerij Stelmach, Florian Marks und Aaron Seggelke.
 Betreuender Dozent ist Prof. Christian Noss.
