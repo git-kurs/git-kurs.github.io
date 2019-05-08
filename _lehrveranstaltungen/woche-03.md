@@ -1,5 +1,5 @@
 ---
-titel: Workshop
+titel: Git Basics
 kuerzel: workshop
 verantwortlich: alle
 typ: workshop
