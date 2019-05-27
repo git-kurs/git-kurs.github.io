@@ -6,6 +6,7 @@ titel: Über die Veranstaltung
 In diesem Kurs geht es um das interaktive und betreute Erlernen des weitverbreiteten Versionierungswerkzeugs *Git* in der Konsole.
 Dieser Kurs wendet sich an alle Informatikstudenten des Campus Gummersbach mit wenig oder keinen Kenntnissen bzgl Git.
 Die Termine können dem [Zeitplan](timetable) entnommen werden und [hier](https://terminplaner4.dfn.de/th-koeln-git-kurs) kann man sich für diese anmelden.
+Die Termine behandeln jeweils den gleichen Inhalt, eine Anmeldung zu mehreren Terminen ist aber nicht verboten, zum Beispiel falls noch weitere Fragen auftauchen.
 
 Wir werden zusammen erste Git-Repositories anlegen, Änderungen am Code durchführen und tracken und konkrete Problemstellungen wie Merge-Konflikte lösen.
 
@@ -32,8 +33,8 @@ Windows-Nutzer müssen es herunterladen und installieren.
 
 ## Material und Links
 
-⦁ [Foliensatz](404)<br>
-⦁ [Aufgaben](404)<br>
+⦁ [Foliensatz - folgt](404)<br>
+⦁ [Aufgaben - folgt](404)<br>
 ⦁ [Git – Getting started](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control)<br>
 ⦁ [Git Dokumentation](https://git-scm.com/docs)<br>
 ⦁ [GitHub](https://github.com/)
