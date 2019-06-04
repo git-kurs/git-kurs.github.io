@@ -33,8 +33,8 @@ Windows-Nutzer müssen es herunterladen und installieren.
 
 ## Material und Links
 
-⦁ [Foliensatz - folgt](404)<br>
-⦁ [Aufgaben - folgt](404)<br>
+⦁ [Foliensatz](https://github.com/git-kurs/git-kurs/blob/master/git-kurs.pdf)<br>
+⦁ [Cheat-Sheet](https://github.com/git-kurs/git-kurs/blob/master/git-kurs-cheatsheet.md)<br>
 ⦁ [Git – Getting started](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control)<br>
 ⦁ [Git Dokumentation](https://git-scm.com/docs)<br>
 ⦁ [GitHub](https://github.com/)
