@@ -1,3 +1,3 @@
+# Git-Kurs – GitHub.io-Seite
 
-# mi-bachelor-praxisprojektseminar
-Infos rund um das Modul Praxisprojektseminar im Medieninformatik Bachelor an der TH Köln.
+Hier wird die Infoseite des Git-Kurses gepflegt.
