@@ -41,5 +41,5 @@ Windows-Nutzer müssen es herunterladen und installieren.
 
 ## Verantwortliche
 
-Angeboten wird dieser Kurs von David Kathmann, Kerstin Dückmann, Valerij Stelmach, Florian Marks und Aaron Seggelke.
-Betreuender Dozent ist Prof. Christian Noss.
+Initiiert wurde dieser Kurs von [David Kathmann](https://github.com/dkathmann), [Kerstin Dückmann](https://github.com/kdueckmann), [Aaron Seggelke](https://github.com/aaronseg), Florian Marks und Valerij Stelmach.
+Betreuender Dozent ist [Prof. Christian Noss](https://github.com/cnoss).
