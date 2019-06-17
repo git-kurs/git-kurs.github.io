@@ -41,5 +41,5 @@ Windows-Nutzer müssen es herunterladen und installieren.
 
 ## Verantwortliche
 
-Initiiert wurde dieser Kurs von [David Kathmann](https://github.com/dkathmann), [Kerstin Dückmann](https://github.com/kdueckmann), [Aaron Seggelke](https://github.com/aaronseg), Florian Marks und Valerij Stelmach.
+Initiiert wurde dieser Kurs von [David Kathmann](https://github.com/dkathmann), [Kerstin Dückmann](https://github.com/kdueckmann), [Aaron Seggelke](https://github.com/aaronseg), [Florian Marks](https://github.com/FloMarks) und [Valerij Stelmach](https://github.com/Spacket).
 Betreuender Dozent ist [Prof. Christian Noss](https://github.com/cnoss).
